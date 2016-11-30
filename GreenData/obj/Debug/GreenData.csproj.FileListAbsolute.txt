@@ -1,0 +1,14 @@
+D:\计算机\自我学习\GreenFram\GreenData\bin\Debug\GreenData.dll
+D:\计算机\自我学习\GreenFram\GreenData\bin\Debug\GreenData.pdb
+D:\计算机\自我学习\GreenFram\GreenData\obj\Debug\ResolveAssemblyReference.cache
+D:\计算机\自我学习\GreenFram\GreenData\obj\Debug\GreenData.dll
+D:\计算机\自我学习\GreenFram\GreenData\obj\Debug\GreenData.pdb
+D:\计算机\自我学习\GreenFram\GreenData\bin\Debug\GreenConfiguration.dll
+D:\计算机\自我学习\GreenFram\GreenData\bin\Debug\GreenConfiguration.pdb
+D:\VS\GreenFram\GreenData\bin\Debug\GreenData.dll
+D:\VS\GreenFram\GreenData\bin\Debug\GreenData.pdb
+D:\VS\GreenFram\GreenData\bin\Debug\GreenConfiguration.dll
+D:\VS\GreenFram\GreenData\bin\Debug\GreenConfiguration.pdb
+D:\VS\GreenFram\GreenData\obj\Debug\GreenData.csprojResolveAssemblyReference.cache
+D:\VS\GreenFram\GreenData\obj\Debug\GreenData.dll
+D:\VS\GreenFram\GreenData\obj\Debug\GreenData.pdb

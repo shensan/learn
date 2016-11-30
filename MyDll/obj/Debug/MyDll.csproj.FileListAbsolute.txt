@@ -1,0 +1,7 @@
+D:\计算机\自我学习\自我框架\GreenFram\WindowsFormsApplication1\bin\Debug\MyDll.dll
+D:\计算机\自我学习\自我框架\GreenFram\WindowsFormsApplication1\bin\Debug\MyDll.pdb
+D:\计算机\自我学习\自我框架\GreenFram\MyDll\obj\Debug\ResolveAssemblyReference.cache
+D:\计算机\自我学习\自我框架\GreenFram\MyDll\obj\Debug\MyDll.dll
+D:\计算机\自我学习\自我框架\GreenFram\MyDll\obj\Debug\MyDll.pdb
+D:\计算机\自我学习\自我框架\GreenFram\GreenFramTest\bin\Debug\MyDll.dll
+D:\计算机\自我学习\自我框架\GreenFram\GreenFramTest\bin\Debug\MyDll.pdb

@@ -1,0 +1,14 @@
+D:\计算机\自我学习\GreenFram\GreenCore\bin\Debug\GreenCore.dll
+D:\计算机\自我学习\GreenFram\GreenCore\bin\Debug\GreenCore.pdb
+D:\计算机\自我学习\GreenFram\GreenCore\obj\Debug\GreenCore.dll
+D:\计算机\自我学习\GreenFram\GreenCore\obj\Debug\GreenCore.pdb
+D:\计算机\自我学习\GreenFram\GreenCore\bin\Debug\GreenConfiguration.dll
+D:\计算机\自我学习\GreenFram\GreenCore\bin\Debug\GreenConfiguration.pdb
+D:\计算机\自我学习\GreenFram\GreenCore\obj\Debug\GreenCore.csprojResolveAssemblyReference.cache
+D:\VS\GreenFram\GreenCore\bin\Debug\GreenCore.dll
+D:\VS\GreenFram\GreenCore\bin\Debug\GreenCore.pdb
+D:\VS\GreenFram\GreenCore\bin\Debug\GreenConfiguration.dll
+D:\VS\GreenFram\GreenCore\bin\Debug\GreenConfiguration.pdb
+D:\VS\GreenFram\GreenCore\obj\Debug\GreenCore.csprojResolveAssemblyReference.cache
+D:\VS\GreenFram\GreenCore\obj\Debug\GreenCore.dll
+D:\VS\GreenFram\GreenCore\obj\Debug\GreenCore.pdb

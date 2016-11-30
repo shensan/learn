@@ -1,0 +1,10 @@
+D:\计算机\自我学习\GreenFram\GreenConfiguration\bin\Debug\GreenConfiguration.dll
+D:\计算机\自我学习\GreenFram\GreenConfiguration\bin\Debug\GreenConfiguration.pdb
+D:\计算机\自我学习\GreenFram\GreenConfiguration\obj\Debug\ResolveAssemblyReference.cache
+D:\计算机\自我学习\GreenFram\GreenConfiguration\obj\Debug\GreenConfiguration.dll
+D:\计算机\自我学习\GreenFram\GreenConfiguration\obj\Debug\GreenConfiguration.pdb
+D:\VS\GreenFram\GreenConfiguration\bin\Debug\GreenConfiguration.dll
+D:\VS\GreenFram\GreenConfiguration\bin\Debug\GreenConfiguration.pdb
+D:\VS\GreenFram\GreenConfiguration\obj\Debug\GreenConfiguration.csprojResolveAssemblyReference.cache
+D:\VS\GreenFram\GreenConfiguration\obj\Debug\GreenConfiguration.dll
+D:\VS\GreenFram\GreenConfiguration\obj\Debug\GreenConfiguration.pdb

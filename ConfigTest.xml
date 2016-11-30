@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <!--段处理器-->>
+  <configSections>
+    <section name="Lunch" type="Life.Food, Life"/>
+    <section name="Dinner" type="Life.Food, Life"/>
+  </configSections>
+  <!--其余的为段组-->>
+  <appSettings>
+    <add key="Location" value="Close To Worke"/>
+  </appSettings>
+  <!--用Lunch处理配置信息-->>
+  <Lunch soup="eggdrop" soda="cook" dish="beef with broccol"/>
+</configuration>

@@ -1,0 +1,10 @@
+D:\计算机\自我学习\GreenFram\GreenEventNotification\bin\Debug\GreenEventNotification.dll
+D:\计算机\自我学习\GreenFram\GreenEventNotification\bin\Debug\GreenEventNotification.pdb
+D:\计算机\自我学习\GreenFram\GreenEventNotification\obj\Debug\ResolveAssemblyReference.cache
+D:\计算机\自我学习\GreenFram\GreenEventNotification\obj\Debug\GreenEventNotification.dll
+D:\计算机\自我学习\GreenFram\GreenEventNotification\obj\Debug\GreenEventNotification.pdb
+D:\VS\GreenFram\GreenEventNotification\bin\Debug\GreenEventNotification.dll
+D:\VS\GreenFram\GreenEventNotification\bin\Debug\GreenEventNotification.pdb
+D:\VS\GreenFram\GreenEventNotification\obj\Debug\GreenEventNotification.csprojResolveAssemblyReference.cache
+D:\VS\GreenFram\GreenEventNotification\obj\Debug\GreenEventNotification.dll
+D:\VS\GreenFram\GreenEventNotification\obj\Debug\GreenEventNotification.pdb

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GreenFram>
+  <IOC>
+    <object id="Student" type="MyDll.Student" dllName="MyDll">
+      <!--构造器注入-->   
+       <constructor-arg name="name" value="张联珠"></constructor-arg>
+      <property name="MyTeacher" ref="Teacher"></property>
+    </object>
+
+    <object id="Teacher" type="MyDll.Teacher"  dllName="MyDll">
+      <!--构造器注入-->   
+       <constructor-arg name="name" value="张三"></constructor-arg>
+    </object>
+
+    <object id="StandardInterceptor" type="MyDll.StandardInterceptor"  dllName="MyDll">
+    </object>
+	
+	 <object id="StandardInterceptor2" type="MyDll.StandardInterceptor2"  dllName="MyDll">
+    </object>
+
+  </IOC>
+
+  <AOP>
+    <object id="TeacherProxy" type="MyDll.Teacher"  dllName="MyDll">
+      <!--设置拦截器-->   
+         <interceptor ref="StandardInterceptor"></interceptor>
+	  <!--设置拦截器-->   
+         <interceptor ref="StandardInterceptor2"></interceptor>
+    </object>
+    <object id="StudentProxy" type="MyDll.Student"  dllName="MyDll">
+      <!--设置拦截器-->   
+         <interceptor ref="StandardInterceptor"></interceptor>
+	  <!--设置拦截器-->   
+         <interceptor ref="StandardInterceptor2"></interceptor>
+	  <!--属性注入--> 
+      <property name="MyTeacher" ref="Teacher"></property>
+    </object>
+  </AOP>
+</GreenFram>
